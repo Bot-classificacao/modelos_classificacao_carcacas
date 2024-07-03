@@ -1,0 +1,8 @@
+*.py
+/imagens_para_teste
+/prototipos_de_teste
+
+/.ipynb_checkpoints
+/*.jpg
+/*.jpeg
+/*.png
