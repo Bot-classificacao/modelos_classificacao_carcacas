@@ -1,5 +1,5 @@
-*.py
-/.ipynb_checkpoints
+# *.py
+# /.ipynb_checkpoints
 /*.jpg
 /*.jpeg
 /*.png
